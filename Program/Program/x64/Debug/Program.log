@@ -1,3 +1,2 @@
 ﻿  Program.cpp
-C:\Users\user\Documents\GitHub\Program-Lecture\Program\Program.cpp(143,22): error C2065: 'a': 선언되지 않은 식별자입니다.
-C:\Users\user\Documents\GitHub\Program-Lecture\Program\Program.cpp(144,2): error C2146: 구문 오류: ';'이(가) 'list' 식별자 앞에 없습니다.
+  Program.vcxproj -> C:\Users\user\Documents\GitHub\Program-Lecture\Program\x64\Debug\Program.exe
