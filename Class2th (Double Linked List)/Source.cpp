@@ -1,11 +1,5 @@
 ﻿#include <iostream>
 
-int main()
-{
-    std::cout << "Hello World!\n";
-}
-#include <iostream>
-
 using namespace std;
 
 template <typename T>
